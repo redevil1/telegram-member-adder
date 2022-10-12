@@ -2,7 +2,7 @@
 python script for member in telegram channel or group
 
 
-# With Proof
+# With Proof , for proof DM [![Telegram](https://img.shields.io/badge/@dosa845-%23F7DF1C?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dosa845)
 
 # All Feature :- Available 👇
 0. 👉👉 Scrape 10k members from group
