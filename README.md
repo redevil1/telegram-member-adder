@@ -4,6 +4,10 @@ python script for member in telegram channel or group
 
 # With Proof , for proof DM [![Telegram](https://img.shields.io/badge/@dosa845-%23F7DF1C?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dosa845)
 
+Proof :- 
+
+[![Watch the video](https://img.youtube.com/vi/fMCjni9ny18/maxresdefault.jpg)](https://youtu.be/fMCjni9ny18)
+
 # All Feature :- Available 👇
 0. 👉👉 Scrape 10k members from group
 1. 👉 Ban Number Filter
