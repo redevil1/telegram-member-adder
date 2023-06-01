@@ -1,5 +1,5 @@
 # telegram-member-adder
-python script for member in telegram channel or group
+python script for member in telegram channel or group with latest updates , no error.
 
 ## Paymets Methods:
 1. UPI
